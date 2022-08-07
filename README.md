@@ -1,4 +1,4 @@
-# Baseball_Salary_Estimate_with_ML
+# Baseball Salary Estimate with ML
 
 In this project, I will develop a machine learning model that can predict salaries for baseball players. I will perform the necessary data analysis and feature engineering steps before developing the model.
 
